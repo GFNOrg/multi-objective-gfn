@@ -1,0 +1,6 @@
+[submodule "mo_gfn"]
+	path = mo_gfn
+	url = https://github.com/MJ10/mo_gfn
+[submodule "mogfn-al"]
+	path = mogfn-al
+	url = https://github.com/MJ10/mogfn-al
